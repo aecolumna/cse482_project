@@ -1,0 +1,7 @@
+rawdata/*
+venv/*
+.DS_Store
+.ipynb_checkpoints/*
+.idea/*
+
+
